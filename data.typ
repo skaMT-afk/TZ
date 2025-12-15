@@ -6,7 +6,7 @@
 
   // Project name
   // Example: "Учимся закупать ТОН"
-  project_name: "Написание игры Богровый Псалом",
+  project_name: "Написание игры Багровый Псалом",
   // Example: "Learning how to purchase TON"
   project_name_english: "Writing the game Crimson Psalm",
 
